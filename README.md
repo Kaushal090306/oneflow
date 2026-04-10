@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # oneflow
 A company management system
 =======
@@ -260,4 +259,4 @@ Socket.IO is enabled on the backend server and supports user-specific rooms for 
 ---
 
 For production deployment, consider adding separate environment files, secure secret management, and CI/CD pipeline checks for schema migrations.
->>>>>>> 5fe7bec (Initial commit: OneFlow project setup and documentation)
+
